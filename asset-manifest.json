@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/baby-show-website/static/css/main.22b64ec1.css",
-    "main.js": "/baby-show-website/static/js/main.64bd8107.js",
+    "main.js": "/baby-show-website/static/js/main.9ad2cf0e.js",
     "static/js/787.ee127de1.chunk.js": "/baby-show-website/static/js/787.ee127de1.chunk.js",
     "static/media/bear.jpeg": "/baby-show-website/static/media/bear.6b6472dc9b4044d5cb33.jpeg",
     "index.html": "/baby-show-website/index.html",
     "main.22b64ec1.css.map": "/baby-show-website/static/css/main.22b64ec1.css.map",
-    "main.64bd8107.js.map": "/baby-show-website/static/js/main.64bd8107.js.map",
+    "main.9ad2cf0e.js.map": "/baby-show-website/static/js/main.9ad2cf0e.js.map",
     "787.ee127de1.chunk.js.map": "/baby-show-website/static/js/787.ee127de1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22b64ec1.css",
-    "static/js/main.64bd8107.js"
+    "static/js/main.9ad2cf0e.js"
   ]
 }
