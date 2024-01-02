@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/baby-shower-website/static/css/main.8c96c3b6.css",
-    "main.js": "/baby-shower-website/static/js/main.8b87c11a.js",
+    "main.js": "/baby-shower-website/static/js/main.40ced5c3.js",
     "static/js/787.ee127de1.chunk.js": "/baby-shower-website/static/js/787.ee127de1.chunk.js",
     "static/media/bear.jpeg": "/baby-shower-website/static/media/bear.6b6472dc9b4044d5cb33.jpeg",
     "index.html": "/baby-shower-website/index.html",
     "main.8c96c3b6.css.map": "/baby-shower-website/static/css/main.8c96c3b6.css.map",
-    "main.8b87c11a.js.map": "/baby-shower-website/static/js/main.8b87c11a.js.map",
+    "main.40ced5c3.js.map": "/baby-shower-website/static/js/main.40ced5c3.js.map",
     "787.ee127de1.chunk.js.map": "/baby-shower-website/static/js/787.ee127de1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c96c3b6.css",
-    "static/js/main.8b87c11a.js"
+    "static/js/main.40ced5c3.js"
   ]
 }
